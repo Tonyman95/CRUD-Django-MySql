@@ -1,7 +1,7 @@
 ### CRUD Completo con Python - Django y MySQL
 
 
-1.  Crear un entorno virtual, hay muchas formas
+1.  Crear un entorno virtual
 
         Opción 1: Crear entorno virtual con el paquete virtualenv
         Si no tienes instalado virtualenv puedes instalarlo de forma global en el sistema atraves de https://pypi.org/project/virtualenv/
